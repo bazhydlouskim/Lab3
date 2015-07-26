@@ -1,0 +1,15 @@
+https://en.wikipedia.org/wiki/Database
+https://en.wikipedia.org/wiki/SQL
+https://en.wikipedia.org/wiki/Relational_model
+https://en.wikipedia.org/wiki/Database_model
+https://en.wikipedia.org/wiki/MySQL
+https://en.wikipedia.org/wiki/PostgreSQL
+https://en.wikipedia.org/wiki/Microsoft_SQL_Server
+https://en.wikipedia.org/wiki/Oracle_Database
+https://en.wikipedia.org/wiki/Online_database
+https://en.wikipedia.org/wiki/List_of_online_databases
+https://en.wikiversity.org/wiki/Introduction_to_Databases
+https://en.wikiversity.org/wiki/Data
+https://en.wikiversity.org/wiki/Data_analysis
+https://en.wikiversity.org/wiki/Data_screening
+https://en.wikiversity.org/wiki/Missing_data
